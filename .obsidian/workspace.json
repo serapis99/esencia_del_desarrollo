@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "9a15c7803bcf5e55",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b9580b35030741b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b8177fc01dbea77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89d9387248349704",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f1f55266e434e319",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec611ef6766865c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e0126620f61fd0f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2ce9c5a54e3be1c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "06fe560edd0a660e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e9fda303de5b2e98",
+    "type": "split",
+    "children": [
+      {
+        "id": "23d8b8114a433c8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "153c97ebaaa46c37",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f9c70e2fe10e07fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "13332ead8665a478",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1c082fd37aa9b858",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "7b8177fc01dbea77",
+  "lastOpenFiles": [
+    "README.md",
+    "Características del lenguaje/Manejo del Case/Case Sensitive.md",
+    "Características del lenguaje/Sistema Operativo/Windows/WSL",
+    "Lenguajes/Rust.md",
+    "Características del lenguaje/Multiplataforma/Multiplataforma.md",
+    "Características del lenguaje/Nomenclaturas/Snake Case.md",
+    "Características del lenguaje/Enfoques de Ejecución/Lenguajes Compilados.md",
+    "Características del lenguaje/Tipados/Tipado Estático.md",
+    "Características del lenguaje/Tipados/Tipado Fuerte.md",
+    "Características del lenguaje/Niveles del lenguaje/Alto Nivel.md",
+    "Lenguajes/Python.md",
+    "Lenguajes/PHP.md",
+    "Lenguajes/kotlin.md",
+    "Lenguajes/JavaScript.md",
+    "Lenguajes/Java.md",
+    "Lenguajes/Golang.md",
+    "Lenguajes/Dart.md",
+    "Lenguajes/C Sharp.md",
+    "Lenguajes/C ++.md",
+    "Características del lenguaje/Manejo del Case/No Case Sensitive.md",
+    "Características del lenguaje/Enfoques de Ejecución/Lenguajes Interpretados.md",
+    "Características del lenguaje/Tipados/Tipado Dinámico.md",
+    "Características del lenguaje/Nomenclaturas/Camel Case.md",
+    "Características del lenguaje/Nomenclaturas/Pascal Case.md",
+    "Características del lenguaje/Tipados/Tipado Débil.md",
+    "Características del lenguaje/Arquitectura de hardware/x86.md",
+    "Características del lenguaje/Multiplataforma",
+    "Características del lenguaje/Arquitectura de hardware",
+    "Características del lenguaje/Sistema Operativo/Unix",
+    "Características del lenguaje/Sistema Operativo/Mac OS",
+    "Características del lenguaje/Sistema Operativo/Linux",
+    "Características del lenguaje/Sistema Operativo/iOS",
+    "Características del lenguaje/Sistema Operativo/Android",
+    "Características del lenguaje/Sistema Operativo/Windows",
+    "Características del lenguaje/Nomenclaturas"
+  ]
+}
